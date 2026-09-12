@@ -1,0 +1,9 @@
+Kidney Function Tests (Creatinine, eGFR, Urea)
+
+Creatinine is a waste product from normal muscle activity that healthy kidneys filter out of the blood. When kidney function drops, creatinine builds up, so higher-than-normal creatinine usually suggests the kidneys are filtering less effectively.
+
+eGFR (estimated glomerular filtration rate) is calculated from creatinine and estimates how well the kidneys are filtering overall. A lower eGFR indicates reduced kidney function; the lower the number, the more significant the reduction.
+
+Urea (BUN) is another waste product cleared by the kidneys. It can rise with reduced kidney function, but is also affected by diet, hydration, and other factors, so it is usually interpreted alongside creatinine and eGFR rather than alone.
+
+Mild, isolated changes in these values can happen with dehydration or certain medications and may resolve on their own. Larger or persistent changes are more concerning and generally warrant a doctor's review, since kidney function often declines gradually without obvious symptoms until it is fairly advanced.

@@ -1,0 +1,12 @@
+[
+  {"doctor_name": "Dr. Ayesha Malik", "specialty": "General Physician", "date": "2026-09-12", "time": "10:00 AM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Bilal Ahmed", "specialty": "General Physician", "date": "2026-09-13", "time": "02:30 PM", "hospital_type": "private"},
+  {"doctor_name": "Dr. Sana Khan", "specialty": "Endocrinologist", "date": "2026-09-14", "time": "11:00 AM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Imran Raza", "specialty": "Endocrinologist", "date": "2026-09-12", "time": "04:00 PM", "hospital_type": "private"},
+  {"doctor_name": "Dr. Fatima Sheikh", "specialty": "Cardiologist", "date": "2026-09-15", "time": "09:30 AM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Usman Tariq", "specialty": "Cardiologist", "date": "2026-09-12", "time": "01:00 PM", "hospital_type": "private"},
+  {"doctor_name": "Dr. Zainab Qureshi", "specialty": "Nephrologist", "date": "2026-09-16", "time": "10:30 AM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Hamza Farooq", "specialty": "Hepatologist", "date": "2026-09-17", "time": "03:00 PM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Mariam Javed", "specialty": "Hematologist", "date": "2026-09-13", "time": "12:00 PM", "hospital_type": "government"},
+  {"doctor_name": "Dr. Kashif Nawaz", "specialty": "General Physician", "date": "2026-09-12", "time": "06:00 PM", "hospital_type": "government"}
+]

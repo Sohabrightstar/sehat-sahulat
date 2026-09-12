@@ -1,0 +1,31 @@
+# Environment variables
+.env
+*.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Node & Bundlers
+node_modules/
+dist/
+build/
+.cache/
+
+# RAG Vector Store & Databases
+chroma_store/
+*.sqlite3
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

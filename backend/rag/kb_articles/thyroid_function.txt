@@ -1,0 +1,11 @@
+Thyroid Function (TSH, T3, T4)
+
+TSH (thyroid-stimulating hormone) is produced by the pituitary gland and tells the thyroid how much hormone to make. It is usually the first test used to screen for thyroid problems, and it moves opposite to actual thyroid activity: when the thyroid is underactive, TSH tends to rise; when the thyroid is overactive, TSH tends to fall.
+
+High TSH (with normal or low T4) often indicates an underactive thyroid (hypothyroidism), which can cause fatigue, weight gain, feeling cold, and dry skin. This is common and usually very manageable with daily medication once diagnosed.
+
+Low TSH often indicates an overactive thyroid (hyperthyroidism), which can cause symptoms like weight loss, rapid heartbeat, anxiety, or heat intolerance.
+
+T3 and T4 are the actual thyroid hormones and are usually checked together with TSH to confirm and characterize a thyroid problem rather than used alone.
+
+Thyroid results can also be temporarily affected by pregnancy, certain medications, or acute illness, so an isolated abnormal result is often confirmed with a repeat test before starting treatment.
